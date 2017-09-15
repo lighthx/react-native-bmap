@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/huaxin/.android/build-cache/a9b1bc4acfccd3647a92dd770d95505933e6a0f2/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/huaxin/.android/build-cache/a9b1bc4acfccd3647a92dd770d95505933e6a0f2/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/huaxin/.android/build-cache/a9b1bc4acfccd3647a92dd770d95505933e6a0f2/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/huaxin/.android/build-cache/c279a681a3a093b455488b145b36ecfc28f407b4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/huaxin/.android/build-cache/a9b1bc4acfccd3647a92dd770d95505933e6a0f2/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/huaxin/.android/build-cache/a9b1bc4acfccd3647a92dd770d95505933e6a0f2/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/huaxin/Desktop/myproject/EasemobDemo/node_modules/@zzzkk2009/react-native-baidu-map/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/huaxin/.android/build-cache/a9b1bc4acfccd3647a92dd770d95505933e6a0f2/output/res/anim/catalyst_push_up_in.xml"
+    }
+]
